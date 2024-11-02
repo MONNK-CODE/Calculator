@@ -13,7 +13,7 @@ Welcome to **My Calculator**! This simple calculator program allows you to perfo
 
 ### Prerequisites
 
-- Python 3.x installed on your machine.
+- Python 3 installed on your machine.
 
 ### Running the Calculator
 
