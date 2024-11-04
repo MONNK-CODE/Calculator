@@ -42,8 +42,7 @@ while not exit_loop:
                 print("Error: Cannot divide by zero!")
                 continue
 
-        print(f"{operation} Result: {num1} {symbol} {num2} = {result:.2f}")
-        # print(f"{operation} Result: {num1} {symbol} {num2} = {result}")
+        print(f"{operation} Result: {num1} {symbol} {num2} = {result:.2f}") #answer printed rounded up by 2
 
         while True:
             continue_option = input("Do you want to continue using the calculator? (yes/no): ")
